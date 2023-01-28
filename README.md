@@ -1,9 +1,29 @@
 ## Hi,I'm SEEMA K R!
 ## CSE-Universe
 The healthplus.github.io is a hospital website.where you can book an online appointment with doctor for consultation as you needed at what time.
-**project Link**  - https://jolly-smoke-032009400.2.azurestaticapps.net
-##Documentation
+## **project Link**  - https://jolly-smoke-032009400.2.azurestaticapps.net
+## azure technologoies used for project
+static web apps
+health bot
+## Documentation
 The website is designed with simle HTML,CSS,JAVASCRIPT.
-##Screenshots
-
-
+## Screenshots
+![Screenshot (4)](https://user-images.githubusercontent.com/119890069/215248976-9ca05416-e096-407e-bcb4-3c1ac9540f17.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/119890069/215249845-641141fb-50d2-4421-acc3-59ef958a5684.png)    
+![Screenshot (5)](https://user-images.githubusercontent.com/119890069/215248979-236c79fd-f4d1-47f5-96d6-0a5c0696bd10.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/119890069/215248986-6fb06bae-3731-4201-bdad-0d3d00ae7cd7.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/119890069/215249869-08a87b80-7c1c-4884-aed4-5c651f395098.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/119890069/215249913-abd2bf17-4a7a-4c87-8447-f85c43d09a71.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/119890069/215249938-5748c373-820e-4b47-be37-05054bf67dc2.png)
+## healthbot
+![Screenshot (14)](https://user-images.githubusercontent.com/119890069/215250653-3eaf411e-fbe8-432d-a9db-c2fe0f9a4d65.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/119890069/215250077-d195cea7-51aa-4aa4-954b-efa33f26bbdb.png)
+## Features and Functionalities
+interactive and responsible UI
+Has many graphical and visual innovative effects
+Have an aesthically pleasing  visual design and architecture
+Has collecttion of many web pages including Home,about us,contat,menu,health topics and health related information etc.
+user can know about health informatin through this website.
+## tech Stack
+Client:HTML5,CSS3,JAVASCRIPT,BOOTSTAP
+Server:Azure Services like Static web apps and Azure Healthbot
