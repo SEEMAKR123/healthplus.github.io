@@ -7,6 +7,8 @@ The healthplus.github.io is a hospital website.where you can book an online appo
 
 - static web apps
 - Azure health bot
+## Documentation
+This website is designed and with simle HTML,CSS,JAVASCRIPT.
 
 ## Screenshots
 ![Screenshot (4)](https://user-images.githubusercontent.com/119890069/215248976-9ca05416-e096-407e-bcb4-3c1ac9540f17.png)
@@ -29,5 +31,5 @@ The healthplus.github.io is a hospital website.where you can book an online appo
 - user can know about health informatin through this website.
 - 
 ## tech Stack
-- Client:HTML5, CSS3, JavaScript,Bootstrap
+- Client:HTML, CSS, JavaScript,Bootstrap
 - Server:Azure Services like Static web apps and Azure Health bot
