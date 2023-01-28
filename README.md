@@ -1,12 +1,13 @@
-## Hi,I'm SEEMA!
-## CSE-Universe
+## Hi,I'm SEEMA KR!
+## healthplus
 The healthplus.github.io is a hospital website.where you can book an online appointment with doctor for consultation as you needed at what time.This web based application has been developred for the accomplishment of Future ready Talent Intrenship program launched by Microsoft,Future Skills prime,Quess,Github and EY.
+
 ## **project Link**  - https://jolly-smoke-032009400.2.azurestaticapps.net
 ## azure technologoies used for project
+
 - static web apps
 - Azure health bot
-## Documentation
-The website is designed with simle HTML5, CSS3, JAVASCRIPT.
+
 ## Screenshots
 ![Screenshot (4)](https://user-images.githubusercontent.com/119890069/215248976-9ca05416-e096-407e-bcb4-3c1ac9540f17.png)
 ![Screenshot (7)](https://user-images.githubusercontent.com/119890069/215249845-641141fb-50d2-4421-acc3-59ef958a5684.png)    
